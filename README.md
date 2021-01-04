@@ -1,0 +1,6 @@
+![](img/analise_cluster.PNG)
+![](img/financeiro.PNG)
+![](img/clientes.PNG)
+![](img/venda.PNG)
+![](img/rentabilidade.PNG)
+![](img/previsões.PNG)
